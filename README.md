@@ -78,3 +78,14 @@ This is our dashboard url. We can navigate to the frontend of minikube by going 
 ![enter image description here](Dash.JPG)
 
 
+## Sources
+
+[Docker: what is a container?](https://www.docker.com/resources/what-container)
+
+[Docker Engine](https://docs.docker.com/engine/)
+
+[What is docker and why is it so popular?](https://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/)
+
+[How to Install Kubernetes(k8s) with Minikube on CentOS 8](https://www.linuxtechi.com/install-kubernetes-k8s-minikube-centos-8/)
+
+[Getting started with Kubernetes](https://codeburst.io/getting-started-with-kubernetes-deploy-a-docker-container-with-kubernetes-in-5-minutes-eb4be0e96370)
