@@ -69,8 +69,8 @@ and navigate to the given url:
 After getting this page, you can run,
 
     # minikube dashboard --url
-![enter image description here](cmd)
+![enter image description here](URLexample.JPG)
 This is our dashboard url. We can navigate to the frontend of minikube by going to the given URL in a web browser.
-![enter image description here](dashboar)
+![enter image description here](dash.JPG)
 
 
