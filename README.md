@@ -65,7 +65,7 @@ Check to make sure the installation is running by
     ## minikube service test-minikube --url
 
 and navigate to the given url:
-![enter image description here](thisurl)
+![enter image description here](echoserver.JPG)
 After getting this page, you can run,
 
     # minikube dashboard --url
